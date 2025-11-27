@@ -13,6 +13,12 @@ import base64
 
 def read_yaml(path_to_yaml: Path) -> ConfigBox:
     try:
+        path_to_yaml = Path(path_to_yaml)
+
+        # Provide a clearer error message with resolved path when file is missing
+        if not path_to_yaml.exists():
+            raise FileNotFoundError(f"YAML file is not found: {path_to_yaml.resolve()}")
+
         with open(path_to_yaml, "r", encoding="utf-8") as yaml_file:
             content = yaml.safe_load(yaml_file)
             print("✅ YAML Content:", content)  # Debug

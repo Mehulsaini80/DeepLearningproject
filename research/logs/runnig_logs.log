@@ -1,0 +1,47 @@
+[2025-11-27 19:18:03,586: INFO: common: YAML file C:\Users\hp\Regex\DLproject\config\config.yaml loaded successfully]
+[2025-11-27 19:18:03,591: INFO: common: YAML file C:\Users\hp\Regex\DLproject\params.yaml loaded successfully]
+[2025-11-27 19:18:03,594: INFO: common: created directory at: artifacts]
+[2025-11-27 19:18:03,597: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-11-27 19:29:55,210: INFO: common: YAML file C:\Users\hp\Regex\DLproject\config\config.yaml loaded successfully]
+[2025-11-27 19:29:55,219: INFO: common: YAML file C:\Users\hp\Regex\DLproject\params.yaml loaded successfully]
+[2025-11-27 19:29:55,221: INFO: common: created directory at: artifacts]
+[2025-11-27 19:29:55,222: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-11-27 19:48:33,215: INFO: common: YAML file C:\Users\hp\Regex\DLproject\config\config.yaml loaded successfully]
+[2025-11-27 19:48:33,222: INFO: common: YAML file C:\Users\hp\Regex\DLproject\params.yaml loaded successfully]
+[2025-11-27 19:48:33,226: INFO: common: created directory at: artifacts]
+[2025-11-27 19:48:33,228: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-11-27 19:49:31,955: INFO: common: YAML file C:\Users\hp\Regex\DLproject\config\config.yaml loaded successfully]
+[2025-11-27 19:49:31,959: INFO: common: YAML file C:\Users\hp\Regex\DLproject\params.yaml loaded successfully]
+[2025-11-27 19:49:31,959: INFO: common: created directory at: artifacts]
+[2025-11-27 19:49:31,959: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-11-27 19:54:13,802: INFO: common: YAML file C:\Users\hp\Regex\DLproject\config\config.yaml loaded successfully]
+[2025-11-27 19:54:13,804: INFO: common: YAML file C:\Users\hp\Regex\DLproject\params.yaml loaded successfully]
+[2025-11-27 19:54:13,806: INFO: common: created directory at: artifacts]
+[2025-11-27 19:54:13,807: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-11-27 19:54:19,957: INFO: 4037744573: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 11616915
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "adf745abc03891fe493c3be264ec012691fe3fa21d861f35a27edbe6d86a76b1"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 1B9C:3DB730:293B9A:4B116C:69285EFF
+Accept-Ranges: bytes
+Date: Thu, 27 Nov 2025 14:24:00 GMT
+Via: 1.1 varnish
+X-Served-By: cache-del21737-DEL
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1764253440.943487,VS0,VE926
+Vary: Authorization,Accept-Encoding
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: a4145a97fd4be951bc7903a51b761ac02ff6fe5a
+Expires: Thu, 27 Nov 2025 14:29:00 GMT
+Source-Age: 1
+
+]
