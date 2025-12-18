@@ -16,3 +16,5 @@ venv/
 
 artifacts/
 artifacts 
+
+artifacts\data_ingestion
